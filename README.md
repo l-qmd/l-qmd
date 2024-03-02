@@ -23,8 +23,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-qmd&show_icons=true&locale=en&layout=compact" alt="l-qmd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-qmd&" alt="l-qmd" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l-qmd&" alt="l-qmd" /></p>
-
-Here are some ideas to get you started:
