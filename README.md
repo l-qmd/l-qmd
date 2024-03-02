@@ -10,6 +10,7 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **lqmd.tm4ab@simplelogin.fr**
+- 👨‍💻 I want to become a **Cyber defense engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
