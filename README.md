@@ -1,4 +1,11 @@
+### 
 
+- 🔭 I am working to simple project Python
+- 🌱 I am learning Python
+- 🔒 I love the world of hacking and computer security
+- 👺 I like mangas, computers, ...
+- 🏊‍♂️ I practice swimming
+- 💻 The quantum computer is the future
 
 <h1 align="center">Hi 👋, I'm l-qmd</h1>
 <h3 align="left">Connect with me:</h3>
