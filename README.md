@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **lqmd.tm4ab@simplelogin.fr**
 
+- 👀 View all my <a href="https://lqmd.notion.site/Mes-Projets-f5994c7b286c484c877819e456414d37?pvs=74" target="blank">projects</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/l_qmd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="l_qmd_" height="30" width="40" /></a>
